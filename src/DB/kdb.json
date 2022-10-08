@@ -1,0 +1,40 @@
+{
+    "users":[
+ 
+     {"id":1,
+     "nombre":"usuario1",
+      "email": "usuario1@gmail.com",
+      "password":"1234"
+     },
+     {"id":2,
+      "nombre":"usuario2",
+      "email": "usuario2@gmail.com",
+      "password":"1234"
+     }
+   ],
+ 
+  "cargas":[
+ 
+     {"id":1,
+      "estatus":"listo"
+     }
+     
+   ],
+
+  "ropa-sucia": [
+    {
+    "id":1,
+    "kilos":3,
+    "tipo-ropa":"clara"
+    },
+    {
+    "id":2,
+    "kilos":1,
+    "tipo-ropa":"obscura"
+    }
+   ]
+ 
+ 
+ 
+ 
+ }
